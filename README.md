@@ -10,6 +10,10 @@ Webpage for the payroll tracker!
 
 https://tcarocci.github.io/payroll-tracker/
 
+Github Repo:
+
+https://github.com/tcarocci/payroll-tracker
+
 Below is a screenshot of what the payroll window should look like!  
 
 ![alt text](./image/screenshot.png) 
